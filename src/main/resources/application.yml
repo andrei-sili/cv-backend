@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: cv-backend
+  datasource:
+    url: jdbc:postgresql://localhost:5432/cvdb
+    username: cvuser
+    password: cvpass
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
