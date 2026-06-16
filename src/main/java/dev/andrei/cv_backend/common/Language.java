@@ -1,4 +1,4 @@
-package dev.andrei.cv_backend;
+package dev.andrei.cv_backend.common;
 
 /**
  * Languages supported by the public CV API.

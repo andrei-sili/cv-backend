@@ -1,5 +1,6 @@
-package dev.andrei.cv_backend;
+package dev.andrei.cv_backend.profile;
 
+import dev.andrei.cv_backend.common.Language;
 import org.springframework.stereotype.Service;
 
 import java.util.Map;
