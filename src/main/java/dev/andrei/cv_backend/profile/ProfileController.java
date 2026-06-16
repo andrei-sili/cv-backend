@@ -1,5 +1,6 @@
-package dev.andrei.cv_backend;
+package dev.andrei.cv_backend.profile;
 
+import dev.andrei.cv_backend.common.Language;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
